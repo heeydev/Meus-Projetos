@@ -1,0 +1,15 @@
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.exe
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.deps.json
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.runtimeconfig.json
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\bin\Debug\net6.0\ListaExercicios.pdb
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.csproj.AssemblyReference.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.AssemblyInfoInputs.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.AssemblyInfo.cs
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.csproj.CoreCompileInputs.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\refint\ListaExercicios.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.pdb
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ListaExercicios.genruntimeconfig.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\ListaExercicios\obj\Debug\net6.0\ref\ListaExercicios.dll

@@ -1,0 +1,15 @@
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.csproj.AssemblyReference.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.AssemblyInfoInputs.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.AssemblyInfo.cs
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.csproj.CoreCompileInputs.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\bin\Debug\net6.0\Taxes of Project.exe
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\bin\Debug\net6.0\Taxes of Project.deps.json
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\bin\Debug\net6.0\Taxes of Project.runtimeconfig.json
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\bin\Debug\net6.0\Taxes of Project.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\bin\Debug\net6.0\Taxes of Project.pdb
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\refint\Taxes of Project.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.pdb
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\Taxes of Project.genruntimeconfig.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\Taxes of Project\obj\Debug\net6.0\ref\Taxes of Project.dll

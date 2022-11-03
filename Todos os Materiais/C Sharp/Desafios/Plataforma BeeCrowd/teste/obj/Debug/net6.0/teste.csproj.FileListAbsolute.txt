@@ -1,0 +1,15 @@
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\bin\Debug\net6.0\teste.exe
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\bin\Debug\net6.0\teste.deps.json
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\bin\Debug\net6.0\teste.runtimeconfig.json
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\bin\Debug\net6.0\teste.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\bin\Debug\net6.0\teste.pdb
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.csproj.AssemblyReference.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.GeneratedMSBuildEditorConfig.editorconfig
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.AssemblyInfoInputs.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.AssemblyInfo.cs
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.csproj.CoreCompileInputs.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\refint\teste.dll
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.pdb
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\teste.genruntimeconfig.cache
+G:\ProjetosGIT\Meus Projetos\Todos os Materiais\C Sharp\Desafios\Plataforma BeeCrowd\teste\obj\Debug\net6.0\ref\teste.dll
