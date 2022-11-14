@@ -62,7 +62,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Desafio Final Bootcamp Pottencial Payment API - Entity Framework[InMemory] (CRUD)</td>
-                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoMVC">Código</a></td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/PottencialPaymentAPI">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>  		
