@@ -46,17 +46,22 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>
 		<tr>
-                <td>Criando uma Agenda - (CRUD) Entity Framework+SQL Server)</td>
+                <td>Criando uma Agenda - Entity Framework+SQL Server) (CRUD)</td>
                 <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoAgendaCRUD%2BEntityFramework/ModuloAPI">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Gerenciador de Tarefas - (CRUD) API e Entity Framework</td>
+                <td>Gerenciador de Tarefas - API e Entity Framework (CRUD)</td>
                 <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/TrilhaApiDesafio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
 	    <tr>
-                <td>Agenda de Contatos - (CRUD) Asp.NET MVC</td>
+                <td>Agenda de Contatos - Asp.NET MVC (CRUD)</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoMVC">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Desafio Final Bootcamp Pottencial Payment API - Entity Framework[InMemory] (CRUD)</td>
                 <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoMVC">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
