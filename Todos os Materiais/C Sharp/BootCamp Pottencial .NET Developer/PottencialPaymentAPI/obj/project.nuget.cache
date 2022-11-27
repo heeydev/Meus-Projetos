@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aKz+rAJeuj+9QBaOY86bSDStiIzCUPs6qFE0FCSQOc3aeB9nC8qlMdU3jC0pjFBmtDs1CnXhoo2dk5U5dy2QMA==",
+  "dgSpecHash": "yeQJW5sNLRi8TnP93RS7gwOYjBy5wjVRYt0LYxh0/Z8Xf3mX4LAaHAJDX6lTWUhHl3XJDuojD6lj7eramThxZw==",
   "success": true,
-  "projectFilePath": "G:\\ProjetosGIT\\PottencialPaymentAPI\\PottencialPaymentAPI.csproj",
+  "projectFilePath": "F:\\ProjetosGIT\\Meus Projetos\\Todos os Materiais\\C Sharp\\BootCamp Pottencial .NET Developer\\PottencialPaymentAPI\\PottencialPaymentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macie\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",
@@ -29,7 +29,6 @@
     "C:\\Users\\macie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
-    "C:\\Users\\macie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PottencialPaymentAPI</name>
+    </assembly>
+    <members>
+        <member name="M:PottencialPaymentAPI.Controllers.RegistroController.AtualizarParcial(PottencialPaymentAPI.Models.Registro)">
+            <summary>         
+            MUDANÇA DE STATUS => Status 0, opções: 1 ou 4 || Status 1, opções: para 2 ou 4 || Status 2, opções: para 3 ou 4 || Status 3, opções: para 4             
+            </summary>
+        </member>
+    </members>
+</doc>
