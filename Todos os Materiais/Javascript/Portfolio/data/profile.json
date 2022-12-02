@@ -45,8 +45,24 @@
       "Inglês (intermediário)"
     ],    
     "education": [
+      {          
+         "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/pottencialdotnet.webp",
+         "certificate":"https://www.dio.me/certificate/9A6C5D1E/share"
+      },
+      {         
+         "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/jsdeveloper.webp",
+         "certificate":"https://www.dio.me/certificate/9A6C5D1E/share"
+      }
+    ],
+    
+    "degree": [
       {
-
+        "name": "Graduação em Engenharia de Software – 2° Período",
+        "period": "Agosto 2022 - Atualmente"
+      },
+      {
+        "name": "Graduação em Engenharia Elétrica(Ênfase em Computação) – 10° Período",
+        "period": "Janeiro 2015 - Atualmente"        
       }
     ],
     "portfolio": [
@@ -69,19 +85,14 @@
     ],
     "professionalExperience": [
       {
-        "name": "Estágio de Desenvolvimento - Arbo",
+        "name": "Estágio de Desenvolvimento - <a href='https://www.arboimoveis.com.br/' target='blank'>Arbo</a>",
         "period": "Dezembro 2022 - Atualmente",
-        "description": "Auxílio e participação em cerimônias ágeis (scrum) com a equipe. Refinamento técnico de tarefas a serem construídas em conjunto com a equipe. Apoio na implementação de soluções para novas features, melhorias e problemas envolvendo software ERP utilizando como base o PHP."
+        "description": "Auxílio e participação em cerimônias ágeis (scrum) com a equipe. \nRefinamento técnico de tarefas a serem construídas em conjunto com a equipe. \nApoio na implementação de soluções para novas features, melhorias e problemas envolvendo software ERP utilizando como base o PHP."
       },
       {
         "name": "Estágio de Engenharia Elétrica - EMIE²",
         "period": "Março 2022 - Julho 2022",
         "description": "Manutenção, organização e administração do laboratório de Eletricidade e Magnetismo de Engenharia Elétrica na instituição de Ensino Superior Estácio de Sá, além de suporte as atividades acadêmicas realizadas pelo supervisor e docente."
-      },
-      {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
       }
     ]
   }

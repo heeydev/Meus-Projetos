@@ -58,6 +58,10 @@
     background-image: url('/assets/img/icons/job.svg');
 }
 
+.information .experience li {
+    white-space: break-spaces;
+}
+
 .information .location::before {
     background-image: url('/assets/img/icons/location.svg');
 }

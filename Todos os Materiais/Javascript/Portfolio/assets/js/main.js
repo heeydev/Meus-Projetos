@@ -23,7 +23,7 @@ function updateProfileInfo(profileData) {
 
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('profile.skills.softSkills')
-    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')    
+    softSkills.innerHTML = profileData.skills.softSkills.map(skill => `<li>${skill}</li>`).join('')
 }
 
 function updateHardSkills(profileData) {
@@ -36,10 +36,51 @@ function updateLanguages(profileData) {
     languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
 }
 
+// function updateEducations(profileData) {
+//     const educations = document.getElementById('profile.education.formation')
+//     educations = profileData.educations.map(education => {
+//         return `
+//         <h3>Minhas conquistas na <a href="https://web.dio.me/" target="_blank">DIO:</a></h3>                   
+//             <ul>
+//                 <li>                                
+//                     <a href="${education.certificate}" target="_blank"><img src="${education.logo}" alt="pottencialdotnet"></a>                                
+//                 </li>                            
+//             </ul>       
+//         `
+//     }).join('')
+// }
+
+// function updateDegrees(profileData) {
+//     const degrees = document.getElementById('profile.education.degree')
+//     degrees = profileData.degrees.map(degree => {
+//         return `
+//             <ul>
+//                 <li>
+//                     <h3>${degree.name}</h3>
+//                     <p class="period">${degree.period}</p>
+//                 </li>            
+//             </ul>       
+//         `
+//     }).join('')
+// }
+
+function updateProfessionalExperience(profileData) {
+    const professionalExperience = document.getElementById('profile.professionalExperience')
+    professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
+        return `
+            <li>
+                <h3 class="title">${experience.name}</h3>
+                <p class="period">${experience.period}</p>
+                <p>${experience.description}</p>
+            </li>            
+        `
+    }).join('')
+}
+
 function updatePortfolio(profileData) {
     const portfolio = document.getElementById('profile.portfolio')
     portfolio.innerHTML = profileData.portfolio.map(project => {
-            return `
+        return `
                 <li>
                     <h3 ${project.github ? 'class="github' : ''} "><a
                     href="${project.url}"
@@ -52,6 +93,11 @@ function updatePortfolio(profileData) {
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
+    updateLanguages(profileData)
     updateSoftSkills(profileData)
+    updateHardSkills(profileData)
+    // updateEducations(profileData)
+    // updateDegrees(profileData)
+    updateProfessionalExperience(profileData)
     updatePortfolio(profileData)
 })()
