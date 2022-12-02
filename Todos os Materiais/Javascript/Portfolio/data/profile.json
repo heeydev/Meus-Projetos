@@ -43,6 +43,11 @@
     "languages": [
       "Português BR (Nativo)",
       "Inglês (intermediário)"
+    ],    
+    "education": [
+      {
+
+      }
     ],
     "portfolio": [
       {
@@ -60,11 +65,6 @@
         "name": "API de Pagamentos",
         "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/PottencialPaymentAPI",
         "github": true
-      }
-    ],
-    "education": [
-      {
-
       }
     ],
     "professionalExperience": [
