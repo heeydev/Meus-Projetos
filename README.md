@@ -9,6 +9,11 @@
   <!-- C# -->
   <a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
+	</a>
+  <!-- JavaScript -->
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/JavaScript">
+    <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
+  </a>
   
 Clique no logotipo da linguagem para conferir soluções que ainda não estão listadas abaixo:
 
@@ -145,6 +150,34 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         </table>	               
     </div>
 </details>
+
+<!-- Javascript -->
+<details>
+    <summary><strong>Javascript</strong></summary>
+    <br />
+    <div align="left">
+        <!-- BootCamp Formação Javascript Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/track/formacao-javascript-developer">Bootcamp - Formação Javascript Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Projetos do Bootcamp</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+	    <tr>
+                <td>Pokemon API</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/Javascript/Pokedex">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    </table>	               
+    </div>
+	</details>
 
 
 ## Resolvendo um desafio de código na prática
