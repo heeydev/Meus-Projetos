@@ -8,36 +8,36 @@
     "skills": {
       "hardSkills": [
         {
-          "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "name": "Csharp",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/csharp.png"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+          "name": "dotNet",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/dotnet.svg"
         },
         {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "Javascript",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/js.svg"
         },
         {
-          "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/css.svg"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/html.png"
         },
         {
-          "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/git.svg"
         }
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
+        "Comprometimento com metas",
         "Trabalho em equipe",
         "Flexibilidade",
-        "Organização"
+        "Organização",
+        "Empatia"
       ]
     },
     "languages": [
@@ -46,26 +46,37 @@
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "name": "Pokémon API",
+        "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/Javascript/Pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Agenda de Contatos",
+        "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoMVC",
         "github": true
+      }
+      ,
+      {
+        "name": "API de Pagamentos",
+        "url": "https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/PottencialPaymentAPI",
+        "github": true
+      }
+    ],
+    "education": [
+      {
+
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "name": "Estágio de Desenvolvimento - Arbo",
+        "period": "Dezembro 2022 - Atualmente",
+        "description": "Auxílio e participação em cerimônias ágeis (scrum) com a equipe. Refinamento técnico de tarefas a serem construídas em conjunto com a equipe. Apoio na implementação de soluções para novas features, melhorias e problemas envolvendo software ERP utilizando como base o PHP."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Estágio de Engenharia Elétrica - EMIE²",
+        "period": "Março 2022 - Julho 2022",
+        "description": "Manutenção, organização e administração do laboratório de Eletricidade e Magnetismo de Engenharia Elétrica na instituição de Ensino Superior Estácio de Sá, além de suporte as atividades acadêmicas realizadas pelo supervisor e docente."
       },
       {
         "name": "CEO / Brain Machine",
