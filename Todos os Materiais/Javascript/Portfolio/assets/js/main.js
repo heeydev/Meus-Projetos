@@ -38,7 +38,15 @@ function updateLanguages(profileData) {
 
 function updateEducations(profileData) {
     const educations = document.getElementById('profile.educations.formation')
-    educations.innerHTML = profileData.educations.formation.map(education => `<li><img src="${education.logo}"</li>`).join('')
+    educations.innerHTML = profileData.educations.formation.map(education => {
+        return `        
+            <ul>
+                <li>                                
+                    <a href="${education.certificate}" target="_blank"><img src="${education.logo}"></a>                                
+                </li>                            
+            </ul> 
+        `
+    }).join('')
 }
 
 function updateDegrees(profileData) {
