@@ -43,8 +43,9 @@
     "languages": [
       "Português BR (Nativo)",
       "Inglês (intermediário)"
-    ],    
-    "education": [
+    ],
+    "educations": {    
+      "formation": [
       {          
          "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/pottencialdotnet.webp" ,
          "certificate":"https://www.dio.me/certificate/9A6C5D1E/share"
@@ -53,8 +54,7 @@
          "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/jsdeveloper.webp",
          "certificate":"https://www.dio.me/certificate/9A6C5D1E/share"
       }
-    ],
-    
+    ],    
     "degree": [
       {
         "name": "Graduação em Engenharia de Software – 2° Período",
@@ -64,7 +64,8 @@
         "name": "Graduação em Engenharia Elétrica(Ênfase em Computação) – 10° Período",
         "period": "Janeiro 2015 - Atualmente"        
       }
-    ],
+    ]
+  },
     "portfolio": [
       {
         "name": "Pokémon API",

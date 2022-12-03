@@ -37,21 +37,13 @@ function updateLanguages(profileData) {
 }
 
 function updateEducations(profileData) {
-    const educations = document.getElementById('profile.education.formation')
-    educations = profileData.educations.map(education => {
-        return `                
-            <ul>
-                <li>                                
-                    <a href="${education.certificate}" target="_blank"><img src="${education.logo}" alt="pottencialdotnet"></a>                                
-                </li>                            
-            </ul>       
-        `
-    }).join('')
+    const educations = document.getElementById('profile.educations.formation')
+    educations.innerHTML = profileData.educations.formation.map(education => `<li><img src="${education.logo}"</li>`).join('')
 }
 
 function updateDegrees(profileData) {
     const degrees = document.getElementById('profile.education.degree')
-    degrees = profileData.degrees.map(degree => {
+    degrees.innerHTML = profileData.educations.degree.map(degree => {
         return `
             <ul>
                 <li>
@@ -95,8 +87,8 @@ function updatePortfolio(profileData) {
     updateLanguages(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
-    // updateEducations(profileData)
-    // updateDegrees(profileData)
+    updateEducations(profileData)
+    updateDegrees(profileData)
     updateProfessionalExperience(profileData)
     updatePortfolio(profileData)
 })()

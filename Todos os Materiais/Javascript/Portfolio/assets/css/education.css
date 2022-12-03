@@ -1,4 +1,4 @@
-.education {
+.educations {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -6,7 +6,7 @@
     flex-direction: column;
 }
 
-.education .formation ul {
+.educations .formation ul {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -14,34 +14,34 @@
     list-style-type: none;
 }
 
-.education .formation ul li img {
+.educations .formation ul li img {
     max-width: 90px;
     margin: 0.5rem;
 }
 
-.education .degree ul {
+.educations .degree ul {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     padding: 0;  
 }
 
-.education .degree ul li {    
+.educations .degree ul li {    
     padding: 0rem;
 }
 
-.education li {
+.educations li {
     margin-bottom: 0rem;
     list-style: none;
 }
 
-.education li .period {
+.educations li .period {
     display: flex;
     flex-direction: row;
     align-items: center;   
 }
 
-.education li .period::before {  
+.educations li .period::before {  
     content: '';
     display: inline-block;  
     background-image: url('/assets/img/icons/calendar.svg');   
