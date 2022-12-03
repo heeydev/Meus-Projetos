@@ -36,33 +36,33 @@ function updateLanguages(profileData) {
     languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
 }
 
-// function updateEducations(profileData) {
-//     const educations = document.getElementById('profile.education.formation')
-//     educations = profileData.educations.map(education => {
-//         return `
-//         <h3>Minhas conquistas na <a href="https://web.dio.me/" target="_blank">DIO:</a></h3>                   
-//             <ul>
-//                 <li>                                
-//                     <a href="${education.certificate}" target="_blank"><img src="${education.logo}" alt="pottencialdotnet"></a>                                
-//                 </li>                            
-//             </ul>       
-//         `
-//     }).join('')
-// }
+function updateEducations(profileData) {
+    const educations = document.getElementById('profile.education.formation')
+    educations = profileData.educations.map(education => {
+        return `
+        <h3>Minhas conquistas na <a href="https://web.dio.me/" target="_blank">DIO:</a></h3>                   
+            <ul>
+                <li>                                
+                    <a href="${education.certificate}" target="_blank"><img src="${education.logo}" alt="pottencialdotnet"></a>                                
+                </li>                            
+            </ul>       
+        `
+    }).join('')
+}
 
-// function updateDegrees(profileData) {
-//     const degrees = document.getElementById('profile.education.degree')
-//     degrees = profileData.degrees.map(degree => {
-//         return `
-//             <ul>
-//                 <li>
-//                     <h3>${degree.name}</h3>
-//                     <p class="period">${degree.period}</p>
-//                 </li>            
-//             </ul>       
-//         `
-//     }).join('')
-// }
+function updateDegrees(profileData) {
+    const degrees = document.getElementById('profile.education.degree')
+    degrees = profileData.degrees.map(degree => {
+        return `
+            <ul>
+                <li>
+                    <h3>${degree.name}</h3>
+                    <p class="period">${degree.period}</p>
+                </li>            
+            </ul>       
+        `
+    }).join('')
+}
 
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('profile.professionalExperience')
