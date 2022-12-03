@@ -9,6 +9,11 @@
   <!-- C# -->
   <a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
+	</a>
+  <!-- JavaScript -->
+  <a href="https://github.com/Pleiterson/desafios-bootcamps-dio/tree/master/JavaScript">
+    <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
+  </a>
   
 Clique no logotipo da linguagem para conferir soluções que ainda não estão listadas abaixo:
 
@@ -45,6 +50,26 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoSistemaCelularAbstrato">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+		<tr>
+                <td>Criando uma Agenda - Entity Framework+SQL Server) (CRUD)</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoAgendaCRUD%2BEntityFramework/ModuloAPI">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Gerenciador de Tarefas - API e Entity Framework (CRUD)</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/TrilhaApiDesafio">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td>Agenda de Contatos - Asp.NET MVC (CRUD)</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/ProjetoMVC">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Desafio Final Bootcamp Pottencial Payment API - Entity Framework[InMemory] (CRUD)</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/BootCamp%20Pottencial%20.NET%20Developer/PottencialPaymentAPI">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
         </table>  		
         <!-- Desafios de Cálculo BootCamp Pottencial .NET Developer -->
         <table border=1>
@@ -61,17 +86,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Encaixa ou Não?</td>
-                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/EncaixaOuNaoEncaixa">Código</a></td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/EncaixaOuNaoEncaixa">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Três Divisores</td>
-                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/TresDivisores">Código</a></td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/TresDivisores">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Subtraindo o Produto e a soma de um número inteiro</td>
-                <td><a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/VariacoesNumeroInteiro">Código</a></td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/C%C3%A1lculo%20B%C3%A1sico/VariacoesNumeroInteiro">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
 	    </table>   
@@ -95,7 +120,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Aumento de Salário</td>
-                <td><a href="https://github.com/heeydev/Meus-Projetos/blob/master/Todos%20os%20Materiais/C%20Sharp/Desafios/Intermedi%C3%A1rios/Aumento%20de%20Sal%C3%A1rio/AumentoDeSalario.cs">Código</a></td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/C%20Sharp/Desafios/Intermedi%C3%A1rios/Aumento%20de%20Sal%C3%A1rio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
@@ -125,6 +150,34 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         </table>	               
     </div>
 </details>
+
+<!-- Javascript -->
+<details>
+    <summary><strong>Javascript</strong></summary>
+    <br />
+    <div align="left">
+        <!-- BootCamp Formação Javascript Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/track/formacao-javascript-developer">Bootcamp - Formação Javascript Developer</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Projetos do Bootcamp</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+	    <tr>
+                <td>Pokemon API</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/Javascript/Pokedex">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    </table>	               
+    </div>
+	</details>
 
 
 ## Resolvendo um desafio de código na prática
