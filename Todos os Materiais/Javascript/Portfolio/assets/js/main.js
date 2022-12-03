@@ -39,8 +39,7 @@ function updateLanguages(profileData) {
 function updateEducations(profileData) {
     const educations = document.getElementById('profile.education.formation')
     educations = profileData.educations.map(education => {
-        return `
-        <h3>Minhas conquistas na <a href="https://web.dio.me/" target="_blank">DIO:</a></h3>                   
+        return `                
             <ul>
                 <li>                                
                     <a href="${education.certificate}" target="_blank"><img src="${education.logo}" alt="pottencialdotnet"></a>                                

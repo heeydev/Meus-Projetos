@@ -46,7 +46,7 @@
     ],    
     "education": [
       {          
-         "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/pottencialdotnet.webp",
+         "logo":"https://raw.githubusercontent.com/heeydev/Meus-Projetos/master/Todos%20os%20Materiais/Javascript/Portfolio/assets/img/icons/pottencialdotnet.webp" ,
          "certificate":"https://www.dio.me/certificate/9A6C5D1E/share"
       },
       {         
@@ -87,7 +87,7 @@
       {
         "name": "Estágio de Desenvolvimento - <a href='https://www.arboimoveis.com.br/' target='blank'>Arbo</a>",
         "period": "Dezembro 2022 - Atualmente",
-        "description": "Auxílio e participação em cerimônias ágeis (scrum) com a equipe. \nRefinamento técnico de tarefas a serem construídas em conjunto com a equipe. \nApoio na implementação de soluções para novas features, melhorias e problemas envolvendo software ERP utilizando como base o PHP."
+        "description": "Auxílio e participação em cerimônias ágeis (scrum) com a equipe. Refinamento técnico de tarefas a serem construídas em conjunto com a equipe. Apoio na implementação de soluções para novas features, melhorias e problemas envolvendo software ERP utilizando como base o PHP."
       },
       {
         "name": "Estágio de Engenharia Elétrica - EMIE²",
