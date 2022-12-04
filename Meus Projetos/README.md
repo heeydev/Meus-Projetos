@@ -168,11 +168,15 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Desafio</th>
                 <th>Solução</th>
                 <th>Status</th>
-            </tr>
-            <tr>
+            </tr>            
 	    <tr>
                 <td>Pokemon API</td>
                 <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/Javascript/Pokedex">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td><a href="https://heeydev.github.io/Portfolio/">Portfolio Pessoal</a></td>
+                <td><a href="https://github.com/heeydev/Portfolio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
 	    </table>	               
