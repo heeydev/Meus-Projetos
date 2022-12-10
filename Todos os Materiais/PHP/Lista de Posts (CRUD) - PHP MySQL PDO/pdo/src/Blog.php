@@ -61,7 +61,7 @@ class Blog
         $prepare->bindParam(3, $autor);
         $prepare->bindParam(4, $id);
 
-        $prepare->execute([$titulo, $descricao, $autor, $id]);
+        $prepare->execute();
 
         return $prepare->rowCount();
     }
