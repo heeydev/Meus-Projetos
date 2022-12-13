@@ -180,8 +180,135 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/heeydev/Portfolio">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+	    </table>
+	    <!-- Desafios Básicos Formação Javascript Developer -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-de-codigo-formacao-javascript-developer/algorithm/media-final-do-aluno-1?back=/track/formacao-javascript-developer&tab=undefined&moduleId=undefined">Desafios BootCamp Formação PHP Experience</a></th>
+            </tr>
+	    <tr>
+                <th colspan="3">Desafios de Nível: Básico</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Média Aluno</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20PHP/Desafios%20Intermedi%C3%A1rios/Idade%20em%20Dias.php">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>IMC</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20JS/FormacaoJavaScriptDeveloper/04%20-%20IMC%20com%20fun%C3%A7%C3%B5es/IMC_funcoes.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td>Maior Par Menor ímpar</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20JS/FormacaoJavaScriptDeveloper/11%20-%20Desafios%20de%20C%C3%B3digo%2003/maior_par_menor_impar.js">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
+    </div>
+	</details>
+	
+<!-- PHP -->
+<details>
+    <summary><strong>PHP</strong></summary>
+    <br />
+    <div align="left">
+        <!-- BootCamp Formação PHP Experience -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/track/formacao-php-experience">Bootcamp - Formação PHP Experience</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Projetos do Bootcamp</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+	    <tr>
+                <td>Lista de Produtos (CRUD) - PHP MySQL PDO</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/PHP/Lista%20de%20Produtos%20(CRUD)%20-%20PHP%20MySQL%20PDO/pdo/src">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td>Lista de Posts (CRUD) - PHP MySQL PDO</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/PHP/Lista%20de%20Posts%20(CRUD)%20-%20PHP%20MySQL%20PDO/pdo/src">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td>Database List - API REST</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/PHP/Database%20List%20-%20API%20REST/API">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td>Busca CEP</td>
+                <td><a href="https://github.com/heeydev/DigitalCep">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
 	    </table>	               
     </div>
+    </table>   
+        <!-- Desafios Básicos BootCamp Formação PHP Experience -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/desafios-basicos-php/algorithm/soma-simples?back=/track/formacao-php-experience&tab=undefined&moduleId=undefined">Desafios BootCamp Formação PHP Experience</a></th>
+            </tr>
+	    <tr>
+                <th colspan="3">Desafios de Nível: Básico</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Distância</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20PHP/Desafios%20B%C3%A1sicos/distancia.php">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Salário</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20PHP/Desafios%20B%C3%A1sicos/salario.php">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>            
+        </table>
+	</table>   
+        <!-- Desafios Intermediários BootCamp Formação PHP Experience -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/formacao-php-desafios-intermediarios/algorithm/idade-em-dias?back=/track/formacao-php-experience&tab=undefined&moduleId=undefined">Desafios BootCamp Formação PHP Experience</a></th>
+            </tr>
+	    <tr>
+                <th colspan="3">Desafios de Nível: Intermediário</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>DDD</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20PHP/Desafios%20Intermedi%C3%A1rios/DDD.php">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20PHP/Desafios%20Intermedi%C3%A1rios/Idade%20em%20Dias.php">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+	    <tr>
+                <td>Notas e Moedas</td>
+                <td><a href="https://github.com/heeydev/Estudos/blob/master/Estudos%20Gerais%20PHP/Desafios%20Intermedi%C3%A1rios/Notas%20e%20Moedas.php">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>
 	</details>
 
 
