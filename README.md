@@ -6,6 +6,10 @@
 </p>
  
 <p align="center">
+<!-- PHP -->
+  <a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/PHP">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" tittle="PHP" width="70" height="70">
+	</a>
   <!-- C# -->
   <a href="https://github.com/heeydev/Material-de-Estudo/tree/master/Todos%20os%20Materiais/C%20Sharp">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
