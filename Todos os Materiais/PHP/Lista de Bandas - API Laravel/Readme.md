@@ -87,4 +87,10 @@ Para utilizar essa API basta seguir o exemplo abaixo:
 ```
 
 ## REQUISITOS
--Necessário PHP 7.2.0 ou superior
+- Laravel
+
+- PHP (7.1 para versão 5.7 do framework)
+
+- Composer
+
+- Servidor HTTP (NGINX, Apache) - <strong>Opcional</strong>
