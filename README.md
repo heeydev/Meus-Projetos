@@ -256,6 +256,11 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td><a href="https://github.com/heeydev/DigitalCep">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
+	    <tr>
+                <td>Lista de Bandas - API Laravel</td>
+                <td><a href="https://github.com/heeydev/Meus-Projetos/tree/master/Todos%20os%20Materiais/PHP/Lista%20de%20Bandas%20-%20API%20Laravel">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
 	    </table>	               
     </div>
     </table>   
