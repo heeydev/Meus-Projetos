@@ -21,12 +21,12 @@ Route::get('hello/{name}', function($name) {
 
 Route::group(['namespace' => 'App\Http\Controllers'], function(){
     Route::get('bands', 'BandController@getAll');
-    //Route::post('hello-post/{name}', 'HelloWorldController@hello');
+    Route::post('hello-post/{name}', 'HelloWorldController@hello');
     Route::get('bands/{id}', 'BandController@getById');
     Route::get('bands/gender/{gender}', 'BandController@getBandsByGender');
     Route::post('bands/store', 'BandController@store');
 });
 
-// Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
-//     return $request->user();
-// });
+Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
+    return $request->user();
+});
